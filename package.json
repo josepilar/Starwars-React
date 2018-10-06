@@ -50,6 +50,7 @@
     "redux": "^4.0.0",
     "resolve": "1.8.1",
     "sass-loader": "7.1.0",
+    "seamless-immutable": "^7.1.4",
     "style-loader": "0.23.0",
     "terser-webpack-plugin": "1.1.0",
     "url-loader": "1.1.1",
@@ -73,7 +74,8 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "redux-devtools": "^3.4.1"
+    "redux-devtools": "^3.4.1",
+    "redux-devtools-extension": "^2.13.5"
   },
   "jest": {
     "collectCoverageFrom": [
